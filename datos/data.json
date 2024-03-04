@@ -1,0 +1,244 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el principal factor de riesgo para desarrollar diabetes tipo 2?",
+      "opciones": [
+        {
+          "alt": "Obesidad",
+          "image": "./img/obesity.jfif",
+          "correct": true
+        },
+        {
+          "alt": "Fumar",
+          "image": "./img/smoke.jfif",
+          "correct": false
+        },
+        {
+          "alt": "Consumo excesivo de frutas",
+          "image": "./img/fruits.jfif",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es la complicación aguda más común en personas con diabetes?",
+      "opciones": [
+        {
+          "alt": "Hipoglucemia",
+          "image": "./img/hipo.jfif",
+          "correct": true
+        },
+        {
+          "alt": "Hiperglucemia",
+          "image": "./img/hiper.jfif",
+          "correct": false
+        },
+        {
+          "alt": "Cetoacidosis diabética",
+          "image": "./img/ac.jfif",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál de estos alimentos tiende a tener un alto índice glucémico?",
+      "opciones": [
+        {
+          "alt": "Arroz blanco",
+          "image": "./img/arroz.jfif",
+          "correct": true
+        },
+        {
+          "alt": "Espinacas",
+          "image": "./img/espinacas.jfif",
+          "correct": false
+        },
+        {
+          "alt": "Aguacate",
+          "image": "./img/aguacate.jfif",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué porcentaje de la población mundial tiene diabetes tipo 1?",
+      "opciones": [
+        {
+          "alt": "Aproximadamente el 5%",
+          "image": "./img/5.jfif",
+          "correct": true
+        },
+        {
+          "alt": "Aproximadamente el 15%",
+          "image": "./img/15.jfif",
+          "correct": false
+        },
+        {
+          "alt": "Aproximadamente el 25%",
+          "image": "./img/25.jfif",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es la hormona responsable de regular el nivel de azúcar en la sangre?",
+      "opciones": [
+        {
+          "alt": "Insulina",
+          "image": "./img/insulina.jfif",
+          "correct": true
+        },
+        {
+          "alt": "Glucagón",
+          "image": "./img/glucagon.jfif",
+          "correct": false
+        },
+        {
+          "alt": "Somatostatina",
+          "image": "./img/somo.jfif",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es el rango normal de nivel de azúcar en la sangre en ayunas?",
+      "opciones": [
+        {
+          "alt": "Entre 70 y 100 mg/dl",
+          "image": "./img/70.png",
+          "correct": true
+        },
+        {
+          "alt": "Entre 110 y 140 mg/dl",
+          "image": "./img/110.png",
+          "correct": false
+        },
+        {
+          "alt": "Entre 150 y 200 mg/dl",
+          "image": "./img/150.png",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes enfermedades NO está asociada con la diabetes tipo 2?",
+      "opciones": [
+        {
+          "alt": "Hipertensión arterial",
+          "image": "./img/hipertension.jfif",
+          "correct": false
+        },
+        {
+          "alt": "Osteoporosis",
+          "image": "./img/Osteoporosis.jpg",
+          "correct": true
+        },
+        {
+          "alt": "Dislipidemia",
+          "image": "./img/Dislipidemia.png",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes enfermedades NO está asociada con la diabetes tipo 2?",
+      "opciones": [
+        {
+          "alt": "Hipertensión arterial",
+          "image": "./img/hipertension.jfif",
+          "correct": false
+        },
+        {
+          "alt": "Osteoporosis",
+          "image": "./img/Osteoporosis.jpg",
+          "correct": true
+        },
+        {
+          "alt": "Dislipidemia",
+          "image": "./img/Dislipidemia.png",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es el órgano blanco de la insulina?",
+      "opciones": [
+        {
+          "alt": "Hígado",
+          "image": "./img/liver.jpeg",
+          "correct": true
+        },
+        {
+          "alt": "Riñón",
+          "image": "./img/kidney.jpeg",
+          "correct": false
+        },
+        {
+          "alt": "Corazón",
+          "image": "./img/heart.jpeg",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es la principal función de la insulina en el cuerpo?",
+      "opciones": [
+        {
+          "alt": "Aumentar el nivel de azúcar en sangre",
+          "image": "./img/high-sugar.jpeg",
+          "correct": false
+        },
+        {
+          "alt": "Reducir el nivel de azúcar en sangre",
+          "image": "./img/insulin-function.jpeg",
+          "correct": true
+        },
+        {
+          "alt": "Regular la presión arterial",
+          "image": "./img/blood-pressure.jpeg",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es el síntoma clásico de la diabetes tipo 1?",
+      "opciones": [
+        {
+          "alt": "Polifagia (aumento del apetito)",
+          "image": "./img/polyphagia.jpeg",
+          "correct": true
+        },
+        {
+          "alt": "Poliuria (aumento de la micción)",
+          "image": "./img/polyuria.jpeg",
+          "correct": false
+        },
+        {
+          "alt": "Polidipsia (aumento de la sed)",
+          "image": "./img/polydipsia.jpeg",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre la diabetes es correcta?",
+      "opciones": [
+        {
+          "alt": "La diabetes tipo 2 es más común que la diabetes tipo 1",
+          "image": "./img/diabetes-types.jpeg",
+          "correct": true
+        },
+        {
+          "alt": "La diabetes tipo 1 solo afecta a adultos mayores",
+          "image": "./img/diabetes-symbol.jpeg",
+          "correct": false
+        },
+        {
+          "alt": "La diabetes gestacional no requiere tratamiento",
+          "image": "./img/pregnant-diabetes.jpeg",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

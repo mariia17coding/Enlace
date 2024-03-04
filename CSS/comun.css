@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@1&family=Press+Start+2P&display=swap');
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+button {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  /*Tipos de fuentes*/
+  --fuente-primaria: 'Calistoga', serif;
+  --fuente-secundaria: 'Press Start 2P', system-ui;
+  --fuente-terciaria: 'Gloock', serif;
+
+  /*Colores de fuentes*/
+  --color-primario: #f2f6ff;
+  --color-fondo: #ffffffcb;
+  --color-basico: black;
+  --color-texto-primario: #333;
+  --color-texto-secundario: #0f507c;
+  --color-extra: #3498db;
+  --img-fondo: url(../img/fondo-reg1.jpg);
+
+}
+
+
+body {
+  background-color: #f2f6ff;
+  color: var(--color-texto-primario);
+  background-image: var(--img-fondo);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  backdrop-filter: blur(5px);
+  font-size: 20px;
+  margin: 20px auto;
+  background-color: #ffffffcb;
+
+}
+
+h1 {
+  color: var(--color-texto-secundario);
+  font-size: 25px;
+  margin-bottom: 20px;
+  font-family: var(--fuente-secundaria);
+}
+
+p {
+  font-size: 18px;
+  color: var(--color-basico);
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color: var(--color-extra);
+  color: var(--color-primario);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  font-family: var(--fuente-primaria);
+}
+
+button:hover {
+  background-color: var(--color-texto-secundario);
+}
+
+/*iconos*/
+.iconos {
+  /* position:absolute; */
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.iconos :hover {
+  box-shadow: 0px 0px 50px #ffffffec;
+  border-radius: 100%;
+ 
+  
+}
+
+/* Media query para dispositivos pequeños (ej. teléfonos) */
+@media only screen and (max-width: 600px) {
+
+
+  button {
+    font-size: 16px; /* Ajustar el tamaño del botón para pantallas pequeñas */
+  }
+
+}

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@1&family=Press+Start+2P&display=swap');
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #0000001a;
+}
+
+.container .estilo p {
+    font-family: var(--fuente-primaria);
+
+}
+
+.estilo {
+    margin-bottom: 35px;
+
+}
+
+.estilo-instrucciones {
+    padding: 15px;
+    border: 2px solid var(--color-extra);
+    border-radius: 10px;
+    background-color: #dcf1ff;
+    font-family: 'Press Start 2P', system-ui;
+}
+
+.instruciones {
+    text-align: center;
+
+}
+
+.instruciones h2 {
+    color: var(--color-extra);
+    font-size: 21px;
+    padding: 10px;
+    margin-bottom: 15px;
+
+}
+
+.instruciones p {
+    color: #1d1d1d;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 10px;
+    letter-spacing: .5px;
+    padding-left: 120px;
+    padding-right: 120px;
+    text-align: justify;
+    font-family: var(--fuente-primaria);
+
+
+}
+
+.parrafo-centrado {
+    text-align: center;
+    font-size: 15px;
+    
+}
+
